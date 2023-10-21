@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 12.99,
+    "imageUrl": "https://www.themoviedb.org/t/p/original/nwJbVKauPDgJVQgT7SQpVTVN4gA.jpg",
+    "genre": "Fiction",
+    "publishedDate": "April 10, 1925",
+    "description": "The Great Gatsby is a novel by F. Scott Fitzgerald that tells the story of Jay Gatsby and his love for the beautiful Daisy Buchanan. It is a tale of lavish parties, opulent wealth, and the tragic pursuit of the American Dream."
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 14.99,
+    "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.bvsOC5rMirlDAGp14NAgMwHaLH&pid=Api&P=0&h=220",
+    "genre": "Fiction",
+    "publishedDate": "July 11, 1960",
+    "description": "To Kill a Mockingbird is a novel by Harper Lee that explores themes of racial injustice, moral growth, and compassion in the American South. It is a classic of modern American literature."
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 11.99,
+    "imageUrl": "https://i.pinimg.com/originals/0d/2c/09/0d2c0915b3c86c8ac0680f3f6c88731d.jpg",
+    "genre": "Dystopian",
+    "publishedDate": "June 8, 1949",
+    "description": "1984 is a dystopian novel by George Orwell that portrays a totalitarian society where freedom of thought is suppressed. It explores themes of surveillance, propaganda, and political oppression."
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price": 13.99,
+    "imageUrl": "https://www.themoviedb.org/t/p/original/bA4gEvNLIpwVV1JaU4S4yueLjP8.jpg",
+    "genre": "Classic Literature",
+    "publishedDate": "January 28, 1813",
+    "description": "Pride and Prejudice is a novel by Jane Austen that follows the romantic adventures of Elizabeth Bennet and Mr. Darcy. It is a beloved classic of English literature."
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "price": 12.99,
+    "imageUrl": "https://tse2.mm.bing.net/th.id=OIP.ysUvu--oOBJ3T2gdv4dBYwHaL8&pid=Api&P=0&h=220",
+    "genre": "Coming of Age",
+    "publishedDate": "July 16, 1951",
+    "description": "The Catcher in the Rye is a novel by J.D. Salinger that narrates the experiences of Holden Caulfield. It is a significant work in American literature."
+  },
+  {
+    "id": 6,
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "price": 15.99,
+    "imageUrl": "http://victorian-era.org/images/the-novel-to-the-lighthouse-1152x1536.jpg",
+    "genre": "Modernist",
+    "publishedDate": "May 5, 1927",
+    "description": "To the Lighthouse is a novel by Virginia Woolf that explores the inner lives and thoughts of its characters. It is a pioneering work of modernist literature."
+  },
+  {
+    "id": 7,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "price": 14.99,
+    "imageUrl": "https://tse1.mm.bing.net/th?id=OIP._AWQua901tukexSsdbr6IgHaLH&pid=Api&P=0&h=220",
+    "genre": "Fantasy",
+    "publishedDate": "September 21, 1937",
+    "description": "The Hobbit is a fantasy novel by J.R.R. Tolkien that follows the adventures of Bilbo Baggins. It is set in the same world as The Lord of the Rings."
+  },
+  {
+    "id": 8,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "price": 13.99,
+    "imageUrl": "https://tse1.mm.bing.net/th.id=OIP.yvtQ4ciqhxZWVprc5gp2aQHaJ4&pid=Api&P=0&h=220",
+    "genre": "Adventure",
+    "publishedDate": "October 18, 1851",
+    "description": "Moby-Dick is a novel by Herman Melville that tells the story of Captain Ahab and his quest to hunt down the great white whale, Moby-Dick."
+  },
+  {
+    "id": 9,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "price": 12.99,
+    "imageUrl": "https://tse3.mm.bing.net/th.id=OIP.rydhD7IgaSX4AIFR56sKaAHaEK&pid=Api&P=0&h=220",
+    "genre": "Dystopian",
+    "publishedDate": "July 1, 1932",
+    "description": "Brave New World is a dystopian novel by Aldous Huxley that envisions a futuristic world driven by technological advancements, social control, and psychological manipulation."
+  },
+  {
+    "id": 10,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "price": 11.99,
+    "imageUrl": "https://tse3.mm.bing.net/th.id=OIP.xlsMlhNhx6xHBkWH5foQYgHaL2&pid=Api&P=0&h=220",
+    "genre": "Psychological Thriller",
+    "publishedDate": "1866",
+    "description": "Crime and Punishment is a novel by Fyodor Dostoevsky that delves into the psychological turmoil of its main character, Raskolnikov, who commits a murder and grapples with guilt."
+  },
+  {
+    "id": 11,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "price": 14.99,
+    "imageUrl": "https://tse1.explicit.bing.net/th.id=OIP.MpJ_o7JUqcSw05Hm3SMnjwHaKk&pid=Api&P=0&h=220",
+    "genre": "Epic Poetry",
+    "publishedDate": "8th century BCE",
+    "description": "The Odyssey is an epic poem attributed to the ancient Greek poet Homer. It recounts the adventures of Odysseus as he tries to return home after the Trojan War."
+  },
+  {
+    "id": 12,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "price": 13.99,
+    "imageUrl": "https://tse3.mm.bing.net/th.id=OIP.WcpXpeJ8wn9AD4Lq9h1RfAHaD3&pid=Api&P=0&h=220",
+    "genre": "Historical Fiction",
+    "publishedDate": "April 14, 1939",
+    "description": "The Grapes of Wrath is a novel by John Steinbeck that tells the story of the Joad family as they struggle during the Great Depression."
+  },
+  {
+    "id": 13,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "price": 15.99,
+    "imageUrl": "https://tse2.mm.bing.net/th.id=OIP.qd-58EPnbUzZqKRff7A5qQHaEK&pid=Api&P=0&h=220",
+    "genre": "Historical Novel",
+    "publishedDate": "1869",
+    "description": "War and Peace is an epic novel by Leo Tolstoy that explores the lives of several aristocratic Russian families during the Napoleonic era."
+  },
+  {
+    "id": 14,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "price": 14.99,
+    "imageUrl": "https://tse3.mm.bing.net/th.id=OIP.hMnncgaAMRXR_VjSiZXIIwHaE8&pid=Api&P=0&h=220",
+    "genre": "Fantasy",
+    "publishedDate": "July 29, 1954",
+    "description": "The Lord of the Rings is a fantasy novel by J.R.R. Tolkien and is one of the most famous works in the fantasy genre. It tells the story of the One Ring and the quest to destroy it."
+  },
+  {
+    "id": 15,
+    "title": "The Shining",
+    "author": "Stephen King",
+    "price": 12.99,
+    "imageUrl": "https://tse2.mm.bing.net/th.id=OIP.4Mz8EdWFPDQWA-gEexHkNQHaE-&pid=Api&P=0&h=220",
+    "genre": "Horror",
+    "publishedDate": "January 28, 1977",
+    "description": "The Shining is a horror novel by Stephen King. It follows the Torrance family as they take care of the Overlook Hotel during the winter, and eerie and supernatural events ensue."
+  },
+  {
+    "id": 16,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "price": 13.99,
+    "imageUrl": "https://tse1.mm.bing.net/th.id=OIP.pwMX8XLglMg044_0zXgjgwHaEK&pid=Api&P=0&h=220",
+    "genre": "Gothic Horror",
+    "publishedDate": "May 26, 1897",
+    "description": "Dracula is a gothic horror novel by Bram Stoker. It introduces Count Dracula, a vampire who seeks to move from Transylvania to England to spread the undead curse."
+  },
+  {
+    "id": 17,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "price": 11.99,
+    "imageUrl": "https://tse2.mm.bing.net/th.id=OIP.a_-NlHiXA7SesDw6DJiQCAHaLH&pid=Api&P=0&h=220",
+    "genre": "Gothic Novel",
+    "publishedDate": "1847",
+    "description": "Wuthering Heights is a gothic novel by Emily Brontë. It tells the dark and tragic tale of the passionate and vengeful Heathcliff and Catherine Earnshaw."
+  },
+  {
+    "id": 18,
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "price": 14.99,
+    "imageUrl": "https://tse1.mm.bing.net/th.id=OIP.n_t2vSwulgx-8gYu84MEtAHaE8&pid=Api&P=0&h=220",
+    "genre": "Post-Apocalyptic Fiction",
+    "publishedDate": "September 26, 2006",
+    "description": "The Road is a post-apocalyptic novel by Cormac McCarthy that follows a father and son's journey through a desolate and dangerous world."
+  },
+  {
+    "id": 19,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "price": 12.99,
+    "imageUrl": "https://i.pinimg.com/originals/bc/c4/5e/bcc45e8880ee89c67a2855493c20e802.jpg",
+    "genre": "Philosophical Fiction",
+    "publishedDate": "1988",
+    "description": "The Alchemist is a philosophical novel by Paulo Coelho. It tells the story of Santiago, an Andalusian shepherd boy, and his journey to find a hidden treasure."
+  },
+  {
+    "id": 20,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "price": 13.99,
+    "imageUrl": "https://tse4.mm.bing.net/th.id=OIP.uDqPBp70atBjPVmhskp8PgHaLH&pid=Api&P=0&h=220",
+    "genre": "Science Fiction",
+    "publishedDate": "October 12, 1979",
+    "description": "The Hitchhiker's Guide to the Galaxy is a science fiction comedy series by Douglas Adams. It follows the adventures of Arthur Dent, an unwitting Earthman, and Ford Prefect, his alien friend, as they travel through space and time."
+  }
+]

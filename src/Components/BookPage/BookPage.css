@@ -1,0 +1,70 @@
+
+.books-page-container {
+
+    max-width: 1400px;
+    min-height: 500px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style the BookList component within BooksPage */
+  .book-list-container {
+    display: flex;
+    margin-top: 1rem;
+    border:1px solid #000;
+  }
+  
+  /* Style the individual book list items */
+  .book-list-item {
+
+    width:200px;
+    border: 1px solid #ccc;
+    margin: 0.5rem 0;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 5px;
+  }
+  
+ 
+  .pagination {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    justify-content: center;
+  }
+  h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #3e3e3e;
+    background-color: #f4e9af; /* Specify your desired background color here */
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0;
+  }
+  
+  .pagination li {
+    margin: 0.25rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .card-link{
+    text-decoration: none;
+  }
+  .pagination li.active {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .pagination li:hover {
+    background-color: #007bff;
+    color: #fff;
+    transition: background-color 0.3s;
+  }
+  
