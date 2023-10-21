@@ -1,7 +1,5 @@
 const mongoose = require('mongoose');
-const dbUri = 'mongodb+srv://celshya:Jt4K3KbxRsvkTEoD@cluster0.dmdg1um.mongodb.net/booksData';
-const Book = require('./Models/book');
-const jsondata = require('./booksData.json');
+const dbUri = 'mongodb+srv://celshya:Jt4K3KbxRsvkTEoD@cluster0.dmdg1um.mongodb.net/bookData';
 
 mongoose.connect(dbUri, {
   useNewUrlParser: true,
@@ -10,14 +8,6 @@ mongoose.connect(dbUri, {
 
 mongoose.connection.on('connected', () => {
   console.log('Connected to MongoDB Atlas');
-  
-  Book.insertMany(jsondata)
-    .then(() => {
-      console.log('Data inserted successfully.');
-    })
-    .catch((error) => {
-      console.error('Error inserting data:', error);
-    });
 });
 
 mongoose.connection.on('error', (err) => {
@@ -30,8 +20,9 @@ mongoose.connection.on('disconnected', () => {
 
 // Handle Node.js process termination
 process.on('SIGINT', () => {
-  mongoose.connection.close(() => {
-    console.log('MongoDB connection closed due to app termination');
-    process.exit(0);
-  });
+  mongoose.connection.close(); 
+  console.log('MongoDB connection closed due to app termination');
+  process.exit(0);
 });
+
+module.exports = mongoose.connection; 

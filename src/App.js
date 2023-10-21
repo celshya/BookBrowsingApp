@@ -8,7 +8,7 @@ const App = () => {
     <Router>
       <Routes>
         <Route path="/" exact element={<BooksPage/>} />
-        <Route path="/book/:id" element={<BookDetail/>} />
+        <Route path="/book/:_id" element={<BookDetail/>} />
       </Routes>
     </Router>
   );

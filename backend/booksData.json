@@ -1,7 +1,7 @@
 [
   {
-    "id": 1,
-    "title": "The Great Gatsby",
+   
+    "title": "The Great Gatsby nooo",
     "author": "F. Scott Fitzgerald",
     "price": 12.99,
     "imageUrl": "https://www.themoviedb.org/t/p/original/nwJbVKauPDgJVQgT7SQpVTVN4gA.jpg",
@@ -10,7 +10,7 @@
     "description": "The Great Gatsby is a novel by F. Scott Fitzgerald that tells the story of Jay Gatsby and his love for the beautiful Daisy Buchanan. It is a tale of lavish parties, opulent wealth, and the tragic pursuit of the American Dream."
   },
   {
-    "id": 2,
+    
     "title": "To Kill a Mockingbird",
     "author": "Harper Lee",
     "price": 14.99,
@@ -20,7 +20,7 @@
     "description": "To Kill a Mockingbird is a novel by Harper Lee that explores themes of racial injustice, moral growth, and compassion in the American South. It is a classic of modern American literature."
   },
   {
-    "id": 3,
+
     "title": "1984",
     "author": "George Orwell",
     "price": 11.99,
@@ -30,7 +30,7 @@
     "description": "1984 is a dystopian novel by George Orwell that portrays a totalitarian society where freedom of thought is suppressed. It explores themes of surveillance, propaganda, and political oppression."
   },
   {
-    "id": 4,
+   
     "title": "Pride and Prejudice",
     "author": "Jane Austen",
     "price": 13.99,
@@ -40,7 +40,7 @@
     "description": "Pride and Prejudice is a novel by Jane Austen that follows the romantic adventures of Elizabeth Bennet and Mr. Darcy. It is a beloved classic of English literature."
   },
   {
-    "id": 5,
+ 
     "title": "The Catcher in the Rye",
     "author": "J.D. Salinger",
     "price": 12.99,
@@ -50,7 +50,7 @@
     "description": "The Catcher in the Rye is a novel by J.D. Salinger that narrates the experiences of Holden Caulfield. It is a significant work in American literature."
   },
   {
-    "id": 6,
+
     "title": "To the Lighthouse",
     "author": "Virginia Woolf",
     "price": 15.99,
@@ -60,7 +60,7 @@
     "description": "To the Lighthouse is a novel by Virginia Woolf that explores the inner lives and thoughts of its characters. It is a pioneering work of modernist literature."
   },
   {
-    "id": 7,
+
     "title": "The Hobbit",
     "author": "J.R.R. Tolkien",
     "price": 14.99,
@@ -70,7 +70,7 @@
     "description": "The Hobbit is a fantasy novel by J.R.R. Tolkien that follows the adventures of Bilbo Baggins. It is set in the same world as The Lord of the Rings."
   },
   {
-    "id": 8,
+   
     "title": "Moby-Dick",
     "author": "Herman Melville",
     "price": 13.99,
@@ -80,7 +80,7 @@
     "description": "Moby-Dick is a novel by Herman Melville that tells the story of Captain Ahab and his quest to hunt down the great white whale, Moby-Dick."
   },
   {
-    "id": 9,
+  
     "title": "Brave New World",
     "author": "Aldous Huxley",
     "price": 12.99,
@@ -90,7 +90,7 @@
     "description": "Brave New World is a dystopian novel by Aldous Huxley that envisions a futuristic world driven by technological advancements, social control, and psychological manipulation."
   },
   {
-    "id": 10,
+
     "title": "Crime and Punishment",
     "author": "Fyodor Dostoevsky",
     "price": 11.99,
@@ -100,7 +100,7 @@
     "description": "Crime and Punishment is a novel by Fyodor Dostoevsky that delves into the psychological turmoil of its main character, Raskolnikov, who commits a murder and grapples with guilt."
   },
   {
-    "id": 11,
+  
     "title": "The Odyssey",
     "author": "Homer",
     "price": 14.99,
@@ -110,7 +110,7 @@
     "description": "The Odyssey is an epic poem attributed to the ancient Greek poet Homer. It recounts the adventures of Odysseus as he tries to return home after the Trojan War."
   },
   {
-    "id": 12,
+   
     "title": "The Grapes of Wrath",
     "author": "John Steinbeck",
     "price": 13.99,
@@ -120,7 +120,7 @@
     "description": "The Grapes of Wrath is a novel by John Steinbeck that tells the story of the Joad family as they struggle during the Great Depression."
   },
   {
-    "id": 13,
+   
     "title": "War and Peace",
     "author": "Leo Tolstoy",
     "price": 15.99,
@@ -130,7 +130,7 @@
     "description": "War and Peace is an epic novel by Leo Tolstoy that explores the lives of several aristocratic Russian families during the Napoleonic era."
   },
   {
-    "id": 14,
+   
     "title": "The Lord of the Rings",
     "author": "J.R.R. Tolkien",
     "price": 14.99,
@@ -140,7 +140,7 @@
     "description": "The Lord of the Rings is a fantasy novel by J.R.R. Tolkien and is one of the most famous works in the fantasy genre. It tells the story of the One Ring and the quest to destroy it."
   },
   {
-    "id": 15,
+   
     "title": "The Shining",
     "author": "Stephen King",
     "price": 12.99,
@@ -150,7 +150,7 @@
     "description": "The Shining is a horror novel by Stephen King. It follows the Torrance family as they take care of the Overlook Hotel during the winter, and eerie and supernatural events ensue."
   },
   {
-    "id": 16,
+
     "title": "Dracula",
     "author": "Bram Stoker",
     "price": 13.99,
@@ -160,7 +160,7 @@
     "description": "Dracula is a gothic horror novel by Bram Stoker. It introduces Count Dracula, a vampire who seeks to move from Transylvania to England to spread the undead curse."
   },
   {
-    "id": 17,
+   
     "title": "Wuthering Heights",
     "author": "Emily Brontë",
     "price": 11.99,
@@ -170,7 +170,7 @@
     "description": "Wuthering Heights is a gothic novel by Emily Brontë. It tells the dark and tragic tale of the passionate and vengeful Heathcliff and Catherine Earnshaw."
   },
   {
-    "id": 18,
+  
     "title": "The Road",
     "author": "Cormac McCarthy",
     "price": 14.99,
@@ -180,7 +180,7 @@
     "description": "The Road is a post-apocalyptic novel by Cormac McCarthy that follows a father and son's journey through a desolate and dangerous world."
   },
   {
-    "id": 19,
+   
     "title": "The Alchemist",
     "author": "Paulo Coelho",
     "price": 12.99,
@@ -190,7 +190,7 @@
     "description": "The Alchemist is a philosophical novel by Paulo Coelho. It tells the story of Santiago, an Andalusian shepherd boy, and his journey to find a hidden treasure."
   },
   {
-    "id": 20,
+    
     "title": "The Hitchhiker's Guide to the Galaxy",
     "author": "Douglas Adams",
     "price": 13.99,

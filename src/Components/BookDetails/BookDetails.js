@@ -3,30 +3,40 @@ import { useParams } from 'react-router-dom';
 import axios from 'axios';
 import "./BookDetails.css"
 import {Button} from "@mui/material"
+import defaultimage from "../../defaultImg.png"
 const backendUrl = 'http://localhost:3001';
 
+
 const BookDetails = () => {
-    const { id } = useParams(); // Get the book ID from the route params
+    const { _id } = useParams(); 
   const [book, setBook] = useState(null);
 
   useEffect(() => {
   
-    axios.get(`${backendUrl}/api/books/${id}`)
+    axios.get(`${backendUrl}/api/books/${_id}`)
       .then((response) => {
         setBook(response.data);
+        console.log(response.data)
       })
       .catch((error) => {
         console.error('Error fetching book details: ', error);
       });
-  }, [id]);
+  }, [_id]);
   if (!book) {
     return <div>Loading...</div>;
   }
 
+
+ 
+
+  
+
   return (
-    <div className="book-details-container">
+    <div className="book-details-container" key={book}>
      <div className="book-details-cover"> 
-     <img src={book.imageUrl} alt={book.title} />
+     <img src={book.imageUrl} onError={(e) => {
+                        e.target.src = defaultimage; 
+                    }} alt={book.title}   />
      <Button variant='contained' color="success">Want to read</Button>
      </div>
 
@@ -40,7 +50,6 @@ const BookDetails = () => {
         </div>
       
     
- 
 
     </div>
   );

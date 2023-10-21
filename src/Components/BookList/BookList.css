@@ -1,4 +1,4 @@
-/* Update your BookList.css or create a new CSS file */
+
 
 .container {
     max-width: 1400px;
@@ -18,20 +18,19 @@
   }
   
   .book-list-item {
-    flex-basis: calc(20% - 1rem); /* 20% width for 5 cards per row with spacing */
+    flex-basis: calc(20% - 1rem); 
     margin: 1.1rem;
     padding: 0rem;
   }
   
-  /* Style Material-UI Card components */
-  .MuiCard-root {
+.MuiCard-root {
     display: flex;
-    flex-direction: column; /* Make the cards stack on top of each other */
+    flex-direction: column; 
   }
   
   .MuiCardMedia-root {
-    width: 100%; /* Make the image take the full width of the card */
-    max-height: 140px; /* Adjust the height as needed */
+    width: 100%;
+    max-height: 140px; 
   }
   
   .MuiCardContent-root {
@@ -53,17 +52,16 @@
     font-size: 1.2rem;
     color: #333;
   }
-  
-  /* Media query for adjusting the number of cards in a row */
+
   @media (max-width: 1080px) {
     .book-list-item {
-      flex-basis: calc(25% - 1rem); /* 25% width for 4 cards per row with spacing */
+      flex-basis: calc(25% - 1rem); 
     }
   }
   
   @media (max-width: 768px) {
     .book-list-item {
-      flex-basis: calc(33.33% - 1rem); /* 33.33% width for 3 cards per row with spacing */
+      flex-basis: calc(33.33% - 1rem); 
     }
   }
-  
+ 
